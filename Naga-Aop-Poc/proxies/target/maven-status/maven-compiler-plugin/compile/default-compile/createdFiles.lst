@@ -1,0 +1,7 @@
+com\packt\springhighperformance\ch03\bankingapp\interceptor\TransferInterceptor.class
+com\packt\springhighperformance\ch03\bankingapp\config\JDKProxyAppConfig.class
+com\packt\springhighperformance\ch03\bankingapp\service\TransferService.class
+com\packt\springhighperformance\ch03\bankingapp\config\CGLIBProxyAppConfig.class
+com\packt\springhighperformance\ch03\bankingapp\service\Impl\TransferServiceImpl.class
+com\packt\springhighperformance\ch03\bankingapp\model\Account.class
+com\packt\springhighperformance\ch03\bankingapp\config\ProxyFactoryBeanConfig.class

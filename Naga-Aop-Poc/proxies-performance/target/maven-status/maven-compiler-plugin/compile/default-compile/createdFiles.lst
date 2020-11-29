@@ -1,0 +1,5 @@
+com\naga\model\Account.class
+com\naga\config\CGLIBProxyAppConfig.class
+com\naga\config\JDKProxyAppConfig.class
+com\naga\service\TransferService.class
+com\naga\service\Impl\TransferServiceImpl.class
